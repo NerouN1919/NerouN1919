@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="t.me/neroun4002">
-	<img src="[[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png)"/>
+  <a href="https://t.me/neroun4002">
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
 </a>
 </p>
 
