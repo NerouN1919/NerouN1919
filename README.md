@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NerouN</h1>
 
 <h3 align="center">Intern backend developer from Saint Petersburg</h3>
-<img src="[http://i.stack.imgur.com/SBv4T.gif](https://github.com/NerouN1919/NerouN1919/blob/main/American%20Berserk%20Gatsu%20Bateman%20status%20(online-video-cutter.com).gif)" alt="this slowpoke moves"  align="center" />
+<img src="https://github.com/NerouN1919/NerouN1919/blob/main/American%20Berserk%20Gatsu%20Bateman%20status%20(online-video-cutter.com).gif" alt="this slowpoke moves"  align="center" />
 - 🔭 I’m currently working on [news_portal](https://github.com/NerouN1919/news_portal)
 
 - 🌱 I’m currently learning **Spring Framework**
