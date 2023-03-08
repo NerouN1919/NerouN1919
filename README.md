@@ -5,7 +5,7 @@
 <img src="https://github.com/NerouN1919/NerouN1919/blob/main/American%20Berserk%20Gatsu%20Bateman%20status%20(online-video-cutter.com).gif" alt="this slowpoke moves"  align="center" />
 </p>
 
-- 🔭 I’m currently working on [news_portal](https://github.com/NerouN1919/news_portal)
+- 🔭 I’m currently working on [**News portal**](https://github.com/NerouN1919/news_portal)
 
 - 🌱 I’m currently learning **Spring Framework**
 
