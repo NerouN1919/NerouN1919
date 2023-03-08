@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [@neroun4002](http://t-do.ru/aspia_ru "Telegram")
+  <a href="linkedin-url">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
