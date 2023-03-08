@@ -21,5 +21,5 @@
 <div align="center">
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neroun1919&show_icons=true&locale=en&layout=compact" alt="neroun1919" /></p>
 <p align="left">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerouN1919&show_icons=true&theme=radical)</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NerouN1919&show_icons=true&theme=radical" alt="neroun1919" /></p>
 </div>
