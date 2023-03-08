@@ -21,5 +21,4 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neroun1919&show_icons=true&locale=en&layout=compact" alt="neroun1919" /></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=NerouN1919&show_icons=true&theme=radical)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NerouN1919&show_icons=true&theme=radical" alt="neroun1919" /></p>
+
