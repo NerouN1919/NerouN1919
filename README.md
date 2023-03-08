@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="t.me/neroun4002">
-	<img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://static.tildacdn.info/tild3439-6536-4831-b133-303963326438/photo.jpg)" alt="Telegram"/>
+	<img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://static.tildacdn.info/tild3439-6536-4831-b133-303963326438/photo.jpg)"/>
 </a>
 </p>
 
