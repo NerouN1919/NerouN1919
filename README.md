@@ -10,9 +10,9 @@
 - 🌱 I’m currently learning **Spring Framework**
 
 <h3 align="center">Connect with me</h3>
-<p align="left">
+<p align="center">
   <a href="https://t.me/neroun4002">
-    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/ height="100">
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/ height="50">
 </a>
 </p>
 
